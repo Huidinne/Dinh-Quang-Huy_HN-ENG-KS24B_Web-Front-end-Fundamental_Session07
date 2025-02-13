@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ok{
+    padding-left: 20px;
+}
+header{
+    border-left: 7px solid #ff6116 ;
+    padding-left:20px;
+}
+.picture{
+    width: 50%;
+    height: 100%;
+}
+.content{
+    width: 50%;
+}
+.text{
+    font-size: 30px;
+    font-weight: bold;
+    color: #2d2d2d;
+}
+.container{
+    position: relative;
+}
+.center{
+    padding-bottom: 50px;
+    padding-left: 50px;
+    color: white;
+    background-image: linear-gradient(to top,#000000 , transparent);
+    text-align: left;
+    width: 691px;
+    font-size: 45px;
+    position: absolute;
+    bottom: 3px;
+}

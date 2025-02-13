@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eaeaea;
+    color: #231751;
+}
+.list {
+    list-style-image: url(https://rikkei.edu.vn/wp-content/themes/hoabinhweb-v3-154-child-theme/image/icon-check.png);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.btn{
+    color: white;
+    background-color: #bc2229;
+    border: none;
+}
+.btn2{
+    color: #231751;
+    border:1px solid #c1bcd1;
+    margin-left: 10px;
+}
